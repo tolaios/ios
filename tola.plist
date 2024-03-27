@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://archive.org/download/tolaalightmotion/TOLA%20-%20Alight%20Motion.ipa</string>
+					<string>https://archive.org/download/tolascarlet/Scarlet.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.alightcreative.motion</string>
+				<string>com.DebianArch.ScarletPersonalXYZZZ</string>
 				<key>bundle-version</key>
-				<string>6.2.5</string>
+				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>TOLA - Alight Motion</string>
+				<string>Scarlet Installer</string>
 			</dict>
 		</dict>
 	</array>
